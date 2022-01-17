@@ -8,6 +8,7 @@
     - [Bölüm Sonu Çalışması](https://github.com/fatihtigli/patika-front-end/tree/main/html/bolum-sonu)
     - [Ödev 3](https://github.com/fatihtigli/patika-front-end/tree/main/html/odev3-recipe-page)
 - [CSS](https://github.com/fatihtigli/patika-front-end/tree/main/css)
+    - [Ödev 1](https://github.com/fatihtigli/patika-front-end/tree/main/css/odev1)
 - [Bootstrap](https://github.com/fatihtigli/patika-front-end/tree/main/bootstrap)
 - [JavaScript](https://github.com/fatihtigli/patika-front-end/tree/main/javascript)
 
