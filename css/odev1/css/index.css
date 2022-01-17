@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Major+Mono+Display&family=Oxygen:wght@300&family=VT323&display=swap');
+
+/******* Header CSS *******/
+header {
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 2.25em;
+    font-style: italic;
+    margin: 0.25em;
+    padding: 0.25em;
+    color: #CC7351;
+    font-family: 'VT323', monospace;
+}
+
+nav a:hover {
+    color: #E08F62;
+}
+
+#active {
+    text-decoration: overline;
+    font-style: normal;
+    color: #E08F62;
+}
+/* -------------------------------------------------- */
+/******* Footer CSS *******/
+footer {
+    /* margin: 0.25em; */
+    padding: 0.25em;
+    font-size: 1.45em;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#footer-logo {
+    
+    width: 11%;
+    float: left;
+}
+
+address {
+    margin: 0.25em;
+    padding: 0.25em;
+    text-align: end;
+}
+
+span {
+    color: #CC7351;
+}
+footer a {
+    text-decoration: none;
+    color: #9DAB86;
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color:darkslateblue
+}
+/* -------------------------------------------------- */
+/******** Main CSS ********/
+body {
+    background-color: #DED7B1;
+}
+
+main {
+    margin: 1em;
+    padding: 1em;
+    border: 3px ridge #9DAB86;
+    border-radius: 1em;
+    background-color: #E08F62;
+    font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+    color: #DED7B1;
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+}
+
+h3 {
+    color: #CC7351;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/* -------------------------------------------------- */
+/* HomePage CSS */
+.homepage {
+    text-align: center;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+/* -------------------------------------------------- */
+/* Products CSS */
+.product-table{
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    padding: 2em;
+    width: 100%;
+    color: #DED7B1;
+}
+
+tr, td {
+    margin: auto;
+    padding: 1em;
+    border: 2px ridge #9DAB86;
+    border-radius: 1.5em;
+}
+
+td:hover {
+    background-color: #CC7351;
+    color: #DED7B1;
+}
+/* -------------------------------------------------- */
+/* About Us CSS */
+article {
+    margin: 1em;
+    padding: 0.5em;
+    border: 2px ridge #DED7B1;
+    border-radius: 1.5em;
+    background-color: #DED7B1;
+}
+/* -------------------------------------------------- */
