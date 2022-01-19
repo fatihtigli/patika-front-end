@@ -1,0 +1,33 @@
+.logo {
+    text-align: center;
+}
+
+.search {
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.bot-box {
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+}
+
+.special {
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+.help {
+    background-color: #70CCC2;
+}
+
+.update {
+    background-color: #62B3AA;
+}
+
+footer {
+    text-align: center;
+}

@@ -9,6 +9,7 @@
     - [Ödev 3](https://github.com/fatihtigli/patika-front-end/tree/main/html/odev3-recipe-page)
 - [CSS](https://github.com/fatihtigli/patika-front-end/tree/main/css)
     - [Ödev 1](https://github.com/fatihtigli/patika-front-end/tree/main/css/odev1)
+    - [Ödev 2](https://github.com/fatihtigli/patika-front-end/tree/main/css/odev2)
 - [Bootstrap](https://github.com/fatihtigli/patika-front-end/tree/main/bootstrap)
 - [JavaScript](https://github.com/fatihtigli/patika-front-end/tree/main/javascript)
 
