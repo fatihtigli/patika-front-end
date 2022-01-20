@@ -6,10 +6,16 @@ header {
 }
 
 #logo {
+    color: #CC7351;
+    font-family: 'Major Mono Display', monospace;
+    /* font-family: 'VT323', monospace; */
+    font-size: 3.5em;
+}
+/* #logo {
     display: block;
     margin: auto;
     width: 30%;
-}
+} */
 
 nav a {
     text-decoration: none;
@@ -78,13 +84,13 @@ main {
     font-family: 'Dosis', sans-serif;
 }
 
-h1 {
+h2 {
     color: #DED7B1;
     font-family: 'Major Mono Display', monospace;
     text-align: center;
 }
 
-h3 {
+h4 {
     color: #CC7351;
     font-family: 'Oxygen', sans-serif;
 }
@@ -102,7 +108,16 @@ ul {
 
 /* -------------------------------------------------- */
 /* Products CSS */
-.product-table{
+.product-list {
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    list-style-position: inside;
+    color: #DED7B1;
+}
+
+
+/* .product-table{
     margin: 1em;
     padding: 1em;
     text-align: center;
@@ -125,7 +140,7 @@ tr, td {
 td:hover {
     background-color: #CC7351;
     color: #DED7B1;
-}
+} */
 /* -------------------------------------------------- */
 /* About Us CSS */
 article {
