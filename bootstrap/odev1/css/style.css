@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Major+Mono+Display&family=Oxygen:wght@300&family=VT323&display=swap');
+
+body {
+    background-color: #E9ECEF;
+}
+
+.product-list {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+}
+
+h4 {
+    font-family: 'Oxygen', sans-serif;
+}
+
+p, ul, h5, .btn {
+    font-family: 'Dosis', sans-serif;
+}
+.navbar {
+    font-family: 'VT323', monospace;
+    font-size: 1.75em;
+}
+
+#active {
+    font-style: italic;
+    text-decoration: overline;
+}
+
+#logo {
+    text-decoration: none;
+    font-family: 'Major Mono Display', monospace;
+}

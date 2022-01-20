@@ -12,6 +12,7 @@
     - [Ödev 2](https://github.com/fatihtigli/patika-front-end/tree/main/css/odev2)
     - [Ödev 3](https://github.com/fatihtigli/patika-front-end/tree/main/css/odev3-google-homepage)
 - [Bootstrap](https://github.com/fatihtigli/patika-front-end/tree/main/bootstrap)
+    - [Ödev 1](https://github.com/fatihtigli/patika-front-end/tree/main/bootstrap/odev1)
 - [JavaScript](https://github.com/fatihtigli/patika-front-end/tree/main/javascript)
 
 ---
